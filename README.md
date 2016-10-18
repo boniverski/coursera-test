@@ -14,7 +14,7 @@ The front page is similar to Module 2 solution, except now includes navigation b
 
 ## 3. Module 4 Coding Assignment Solution (Week 4)
 
-Souliton for Javascript lecture: looping over an array of names and printing out either a "hello" or "goodbye" to that name to the browser console. If the name starts with a letter j or J, console prints out Goodbye JSomeName. If the name starts with any other letter, console prints out Hello SomeName. Here's a [DEMO](https://boniverski.github.io/coursera-test/module4-solution/) version.
+Soluiton for Javascript lecture: looping over an array of names and printing out either a "hello" or "goodbye" to that name to the browser console. If the name starts with a letter j or J, console prints out Goodbye JSomeName. If the name starts with any other letter, console prints out Hello SomeName. Here's a [DEMO](https://boniverski.github.io/coursera-test/module4-solution/) version.
 
 
 ## 4. Module 5 Coding Assignment Solution (Week 5)
