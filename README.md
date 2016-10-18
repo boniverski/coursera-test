@@ -1,5 +1,5 @@
 # Projects within "HTML, CSS, and Javascript for Web Developers" course by Coursera and Johns Hopkins University
-
+([GitHub page](https://boniverski.github.io/coursera-test/))
 
 
 
