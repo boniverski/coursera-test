@@ -1,6 +1,8 @@
 # Projects within "HTML, CSS, and Javascript for Web Developers" course by Coursera and Johns Hopkins University
 
 
+
+
 ## 1. Module 2 Coding Assignment Solution (Week 2)
    
 The front page is responsive page with three section (no inline CSS, JS, or Twitter Bootstrap is allowed). On dekstop screens, all sections must fit in one row within browser viewport; on tablet screens, first two sections fits in one row and the third section takes entire row below; on mobile screens, each section takes entire row. Here's a [DEMO](https://boniverski.github.io/coursera-test/module2-solution/) version.
